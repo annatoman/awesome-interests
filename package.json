@@ -1,0 +1,21 @@
+{
+  "name": "chouette-de-nuit",
+  "displayName": "chouette de nuit",
+  "description": "night owl theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "chouette de nuit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chouette de nuit-color-theme.json"
+      }
+    ]
+  }
+}
